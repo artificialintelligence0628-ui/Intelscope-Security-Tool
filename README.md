@@ -10,3 +10,14 @@ Intelscope is a C++ security simulation tool that analyzes password strength thr
 ## Technical Details
 - Language: C++
 - Libraries: `iostream`, `string`, `windows.h`, `ctime`
+
+ Upgrade Order
+
+Fix leading zero problem
+Convert guesses to string-based generation
+Learn file handling
+Build dictionary attack
+Add hybrid attack
+Add multiple charsets
+Learn hashing
+Add performance optimization
