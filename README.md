@@ -1,4 +1,4 @@
-Intelscope v1.0 🛡️
+Intelscope v0.1 🛡️
 Intelscope is a C++ security simulation tool that analyzes password strength through policy enforcement and brute-force simulation.
 
 ## Features
